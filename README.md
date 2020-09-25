@@ -1,1 +1,1 @@
-# Sample Multiple Linear Regression Models
+# Sample Regression Models
